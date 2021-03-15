@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KennyLeungCB, a fronted learner （I hope this identity is not temporary） live in Canton, China mainland.
+- 👋 Hi, I’m @KennyLeungCB, a fronted learner (I hope this identity is not temporary) live in Canton, China mainland.
 - 👀 I’m interested in karaoke, badminton, foreign languages and HK films, especially comedies and literary films.
 - 🌱 I’m currently learning some basis of frontend techniques.
 - 💞️ I’m looking to collaborate on ...
